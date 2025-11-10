@@ -1,5 +1,5 @@
 
-## 🧾 **Project Description (Short & Professional)**
+## 🧾 **Project Description **
 
 This project focuses on analyzing **Zepto’s grocery product data** using **SQL** to extract key business insights. The dataset includes product categories, pricing, discounts, availability, and stock details. Through structured SQL queries, I explored **pricing trends**, **discount strategies**, and **inventory patterns** to uncover factors influencing profitability and stock management.
 The analysis provides **actionable insights** for optimizing discounts, maintaining ideal stock levels, and improving sales performance across categories.
